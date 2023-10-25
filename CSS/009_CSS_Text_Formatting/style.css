@@ -1,0 +1,68 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    /* background: blue; */
+    color: #ff8922;
+    text-align: center;
+}
+p{
+    margin-bottom: 10px;
+}
+/* Text Align Last :- */
+.one{
+    text-align: right;
+    text-align-last: right;
+}
+/* Text Align :- */
+.two{
+    margin: 20px;
+    text-align: center;
+}
+/* Direction :- */
+.three{
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+.baseLine{
+    vertical-align: baseline;
+}
+.textTop{
+    vertical-align: text-top;
+}
+.textBottom{
+    vertical-align: text-bottom;
+}
+.sub{
+    vertical-align: sub;
+}
+.super{
+    vertical-align: super;
+}
+a{
+    text-decoration: none;
+    text-decoration: overline;
+    text-decoration: line-through;
+    text-decoration: line-through underline;
+}
+.lineHeidht{
+    text-transform: lowercase;
+    text-transform: capitalize;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    text-shadow: 2px 2px 2px red;
+}
+
+.textIndent{
+    text-indent: 100px;
+    font-size: 15px;
+    line-height: 40px;
+}
+.moreAdd{
+    white-space: nowrap;
+    white-space: break-spaces;
+    word-spacing: 8px;
+}

@@ -1,0 +1,26 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.parent {
+    background: #574b90;
+    height: 300px;
+    width: 400px;
+    margin-top: 30px;
+    padding-top: 30px;
+
+    margin-left: 20px;
+    padding-left: 20px;
+
+    padding: 20px;
+    margin: 20px auto;
+}
+
+.child{
+    background: #b44747;
+    
+    margin: 10px;
+    padding: 10px;
+}

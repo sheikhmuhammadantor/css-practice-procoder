@@ -1,0 +1,26 @@
+
+h1{
+    border-style: dashed;
+    border-style: dotted;
+    border-style: double;
+    border-style: solid;
+    border-style: groove;
+    border-style: ridge;
+    border-style: inherit;
+    border-style: outset;
+    border: 10px groove red;
+    /* border-style: none;`
+    border-style: hidden; */
+    border-color: red;
+    border-right: 7px dashed greenyellow;
+    border-top: 7px double #2fffcb;
+    border-bottom: 7px groove #b32fff;
+    border-left: 7px dotted #ff9e2f;
+}
+
+.dib h1 {
+    border: 10px solid red;
+    border-radius: 50%;
+    border-radius: 20px;
+
+}

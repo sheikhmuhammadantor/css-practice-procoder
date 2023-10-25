@@ -1,0 +1,12 @@
+*{
+    padding: 5px;
+    margin: 2px;
+}
+i,span{
+    list-style: none;
+    color: #ff0000d0;
+    background: #9c978eb6;
+    font-size: 30px;
+    padding: 5px;
+    
+}
