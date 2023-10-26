@@ -1,0 +1,25 @@
+/* *{
+    padding: 0;
+    margin: 0;
+} */
+
+h1,
+h2,
+h3,
+p,
+span{
+    background: teal;
+}
+h1{
+    display: inline;
+    display: inline-block;
+}
+span{
+    display: block;
+}
+.div{
+    display: inline-block;
+    background-color: greenyellow;
+    font-size: 30px;
+    padding: 10px 15px;
+}
