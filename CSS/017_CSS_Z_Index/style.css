@@ -1,0 +1,102 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.hading1{
+    text-align: center;
+    margin: 5px;
+}
+.div1 {
+    height: 200px;
+    width: 200px;
+    background: #c04d4d;
+    margin: 30px auto;
+    z-index: 0;
+    position: relative;
+    box-shadow: 12px 12px 20px #c04d4d;
+}
+.child1{
+    height: 170px;
+    width: 170px;
+    background: #bd9d46;
+    text-align: center;
+    margin: 30px auto;
+    z-index: 1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -65px;
+    margin-left: -65px;
+    box-shadow: 15px 15px 15px #c2992b;
+}
+.child2{
+    height: 140px;
+    width: 140px;
+    background: #4e8b26;
+    text-align: center;
+    margin: 30px auto;
+    z-index: 2;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -30px;
+    margin-left: -30px;
+    box-shadow: 13px 13px 15px #438b13;
+}
+.child3{
+    height: 120px;
+    width: 120px;
+    background: #15b623;
+    text-align: center;
+    margin: 30px auto;
+    z-index: 3;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -5px;
+    margin-left: -5px;
+    box-shadow: 11px 11px 15px #04bb13;
+}
+.child4{
+    height: 100px;
+    width: 100px;
+    background: #31ca90;
+    text-align: center;
+    margin: 30px auto;
+    z-index: 4;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: 20px;
+    margin-left: 20px;
+    box-shadow: 9px 9px 15px #1dca88;
+}
+.child5{
+    height: 80px;
+    width: 80px;
+    background: #134a7e;
+    text-align: center;
+    margin: 30px auto;
+    z-index: 5;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: 45px;
+    margin-left: 45px;
+    box-shadow: 7px 7px 15px #064681;
+}
+.child6{
+    height: 60px;
+    width: 60px;
+    background: #7b36bb;
+    text-align: center;
+    margin: 30px auto;
+    z-index: 6;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: 70px;
+    margin-left: 70px;
+    box-shadow: 5px 5px 15px #6d1eb8;
+}
