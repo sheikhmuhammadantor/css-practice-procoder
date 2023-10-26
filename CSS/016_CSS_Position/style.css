@@ -1,0 +1,42 @@
+div{
+    background-color: #43b18c;
+    height: 200px;
+    width: 200px;
+    position: relative;
+}
+.div1{
+    background-color: #eb5d5d;
+    position: relative;
+    top: 50px;
+    left: 20px;
+}
+.div2{
+    height: 50px;
+    width: 50px;
+    background-color: palegreen;
+    position: absolute;
+    /* top: 50%;
+    left: 50%;
+    margin-top: -25px;
+    margin-left: -25px; */
+
+    bottom: 100px;
+    right: 1px;
+}
+.div3{
+    height: 100px;
+    width: 100px;
+    position: fixed;
+    /* top: 0; */
+    /* right: 0; */
+    bottom: 40px;
+    left: 0;
+}
+.div4{
+    background: orange;
+    height: 100px;
+    width: 500px;
+    position: sticky;
+    top: 0;
+    right: 0px;
+}
