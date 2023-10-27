@@ -1,0 +1,20 @@
+*{
+    padding: 2px;
+    margin: 2px;
+}
+
+div{
+    background: #78709c;
+    color: #6db68b;
+    margin: auto;
+    padding: 2%;
+    height: 400px;
+    width: 500px;
+    overflow: hidden;
+    overflow-y: scroll;
+    overflow: visible ;
+    overflow: auto;
+}
+p{
+    width: 700px;
+}
